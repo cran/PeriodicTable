@@ -1,0 +1,13 @@
+2a425c3621590f871d73b4e168ba27cb *DESCRIPTION
+0cd60b92f3d8530253631df3ab3b1282 *NAMESPACE
+b3b57861269335308f03b00eed6a3059 *R/atomNames.R
+20189798c1e930cb1f964a31be5f9fec *R/atomProperties.R
+d173ceec1765971d0bc994c07c285c50 *R/atomRecognition.R
+e177f823d84353d13853e7c0245b0303 *R/periodicTable.R
+c8814b0949d7a8dbf8666df6be545eec *R/sysdata.rda
+39d0c6254ab6e215d1044374e96b69b9 *data/atomNames.rda
+f023ac0aebed38618728d49a0cc77297 *data/periodicTable.rda
+0a37cf9ce6730941128f5431109498e3 *man/atomNames.Rd
+77ca93dda8b60f9a076c57207c7b74ef *man/atomProperties.Rd
+782941e14df5e51c45daf44864cc44bc *man/atomRecognition.Rd
+dca52dc4deb015099da1e68e5829e58c *man/periodicTable.Rd
