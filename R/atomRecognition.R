@@ -55,7 +55,7 @@ symb <- function(x, na.as.dummy = FALSE)
 #' @export
 symb.character <- function(x, na.as.dummy = FALSE){
   toSymb <- function(x)
-    atomNames$symb[match(x, atomNames$atmtype)]
+    atomNames$symb[match(x, atomNames$atmname)]
 
   if(na.as.dummy)
     x[is.na(x)] <- "Xx"
