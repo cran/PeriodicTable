@@ -1,7 +1,7 @@
 Package: PeriodicTable
 Type: Package
 Title: Periodic Table of the Elements
-Version: 0.1.1
+Version: 0.1.2
 Encoding: UTF-8
 Author: Julien Idé
 Maintainer: Julien Idé <julien.ide.fr@gmail.com>
@@ -12,6 +12,6 @@ LazyData: FALSE
 RoxygenNote: 5.0.1
 Depends: R (>= 3.3.1)
 NeedsCompilation: no
-Packaged: 2017-01-24 16:54:30 UTC; jide
+Packaged: 2017-08-29 07:24:13 UTC; jide
 Repository: CRAN
-Date/Publication: 2017-01-24 19:42:55
+Date/Publication: 2017-08-29 08:13:52 UTC
